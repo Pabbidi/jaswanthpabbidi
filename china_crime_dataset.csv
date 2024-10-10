@@ -1,0 +1,1001 @@
+Crime_Type,Location,Timestamp,Age,Gender,Weapon_Used,Crime_Scene
+Cyber Crime,Beijing,2021-08-05 19:24:34,60,Female,Blunt Object,Public
+Drug Offense,Beijing,2020-08-01 00:50:10,60,Male,Blunt Object,Private
+Cyber Crime,Shanghai,2020-06-23 12:16:36,62,Male,Chemical,Public
+Fraud,Hunan,2020-11-18 00:29:25,37,Male,Blunt Object,Public
+Fraud,Jiangsu,2022-11-28 08:40:42,39,Male,None,Public
+Burglary,Henan,2021-10-21 06:42:14,48,Male,Chemical,Public
+Assault,Shanghai,2020-04-26 12:26:09,43,Female,None,Public
+Theft,Henan,2019-10-18 06:25:37,30,Female,None,Private
+Fraud,Guangdong,2022-08-26 09:19:24,51,Female,Gun,Private
+Burglary,Zhejiang,2019-12-22 07:13:16,50,Male,Knife,Public
+Assault,Sichuan,2020-09-29 11:51:49,53,Female,None,Public
+Fraud,Jiangsu,2020-11-30 21:03:48,63,Female,None,Public
+Cyber Crime,Beijing,2019-12-10 00:23:02,50,Male,Chemical,Private
+Drug Offense,Shanghai,2022-10-13 02:54:32,37,Female,Chemical,Public
+Drug Offense,Beijing,2022-01-06 19:23:47,45,Female,Chemical,Private
+Vandalism,Beijing,2022-02-03 17:16:44,55,Male,Knife,Public
+Assault,Zhejiang,2020-08-17 04:31:47,45,Female,None,Public
+Theft,Guangdong,2021-01-21 09:35:05,29,Female,None,Private
+Vandalism,Zhejiang,2020-09-11 06:47:31,45,Female,None,Public
+Fraud,Shanghai,2022-11-17 23:59:03,35,Male,Blunt Object,Private
+Fraud,Sichuan,2021-10-24 19:28:41,62,Male,Knife,Private
+Cyber Crime,Jiangsu,2024-04-18 14:56:45,54,Male,Blunt Object,Private
+Assault,Hunan,2020-05-06 15:43:35,47,Female,Knife,Public
+Assault,Sichuan,2022-08-25 07:09:33,28,Female,None,Private
+Cyber Crime,Shanghai,2022-03-13 03:05:53,57,Female,None,Public
+Burglary,Sichuan,2020-09-10 16:24:35,55,Male,Chemical,Private
+Burglary,Henan,2024-05-24 13:35:21,40,Male,Gun,Public
+Theft,Beijing,2022-01-13 14:54:51,43,Male,Chemical,Public
+Cyber Crime,Shandong,2022-07-31 09:06:21,41,Female,Blunt Object,Public
+Theft,Shandong,2023-01-15 22:57:29,63,Male,Chemical,Public
+Fraud,Chongqing,2022-10-28 01:02:12,62,Male,Chemical,Public
+Drug Offense,Chongqing,2020-04-29 18:34:26,60,Female,Gun,Public
+Drug Offense,Hunan,2022-06-28 23:57:25,22,Female,Gun,Private
+Vandalism,Chongqing,2022-06-18 16:20:55,44,Female,Gun,Private
+Drug Offense,Guangdong,2024-06-03 23:01:56,24,Male,Blunt Object,Public
+Assault,Shanghai,2021-01-18 13:28:47,39,Male,Blunt Object,Private
+Cyber Crime,Beijing,2023-05-29 14:40:46,49,Female,Knife,Public
+Drug Offense,Hunan,2023-09-26 11:35:47,22,Female,Chemical,Private
+Assault,Sichuan,2020-02-12 08:10:36,26,Male,Chemical,Public
+Theft,Zhejiang,2024-02-17 13:34:01,49,Male,Gun,Private
+Drug Offense,Zhejiang,2023-08-31 17:11:52,58,Female,Blunt Object,Public
+Burglary,Shandong,2023-04-08 20:09:05,61,Male,None,Public
+Theft,Shandong,2024-10-01 22:56:25,36,Male,None,Private
+Theft,Shandong,2022-04-09 04:31:22,18,Female,Knife,Private
+Fraud,Henan,2024-02-28 09:36:34,57,Female,Gun,Private
+Burglary,Zhejiang,2023-07-14 09:33:39,21,Female,Gun,Private
+Cyber Crime,Zhejiang,2022-02-21 19:03:30,63,Male,Knife,Public
+Theft,Guangdong,2021-12-15 05:14:01,52,Male,Chemical,Public
+Fraud,Zhejiang,2022-04-28 08:34:14,30,Female,None,Public
+Fraud,Jiangsu,2022-10-24 20:20:34,54,Male,Knife,Private
+Assault,Zhejiang,2020-03-19 15:26:10,39,Male,Gun,Private
+Drug Offense,Shandong,2024-09-17 06:19:57,38,Female,Chemical,Public
+Cyber Crime,Guangdong,2019-12-17 19:30:32,61,Female,Gun,Public
+Cyber Crime,Henan,2022-01-18 23:10:22,21,Female,Gun,Private
+Theft,Henan,2021-10-27 08:08:55,41,Female,Gun,Private
+Drug Offense,Guangdong,2019-10-19 11:37:30,28,Male,Blunt Object,Private
+Vandalism,Beijing,2022-04-05 20:00:17,31,Female,Gun,Public
+Burglary,Shanghai,2022-04-16 13:41:53,22,Female,None,Public
+Theft,Jiangsu,2024-07-31 16:19:49,23,Male,Blunt Object,Public
+Fraud,Jiangsu,2024-02-29 12:08:32,44,Female,Chemical,Private
+Drug Offense,Sichuan,2021-07-10 14:12:41,58,Male,Chemical,Private
+Theft,Guangdong,2020-08-13 08:51:37,25,Male,Blunt Object,Public
+Theft,Shandong,2024-08-11 00:58:18,58,Female,Knife,Public
+Theft,Hunan,2023-02-16 20:55:43,57,Female,Gun,Private
+Burglary,Shandong,2020-07-05 16:02:54,20,Male,None,Private
+Fraud,Henan,2023-07-07 16:29:40,64,Male,None,Public
+Assault,Shanghai,2023-07-07 13:29:30,63,Female,Knife,Public
+Fraud,Henan,2020-06-25 03:57:10,38,Female,Chemical,Private
+Burglary,Jiangsu,2020-04-11 16:24:24,26,Female,None,Private
+Drug Offense,Jiangsu,2023-06-13 01:48:09,24,Female,Chemical,Public
+Burglary,Shanghai,2022-12-25 07:37:07,39,Male,Chemical,Private
+Theft,Sichuan,2022-08-31 05:28:41,58,Male,Knife,Public
+Fraud,Shandong,2021-01-29 13:45:14,21,Male,Chemical,Private
+Burglary,Guangdong,2021-08-18 16:07:46,29,Female,None,Public
+Cyber Crime,Shandong,2020-12-21 11:15:38,35,Female,Chemical,Private
+Vandalism,Hunan,2022-07-14 15:26:09,47,Female,Knife,Public
+Fraud,Jiangsu,2020-11-03 19:08:14,61,Male,Chemical,Public
+Burglary,Zhejiang,2023-02-10 12:32:24,31,Male,Chemical,Public
+Theft,Jiangsu,2020-05-06 19:37:59,49,Male,Blunt Object,Private
+Drug Offense,Beijing,2020-02-13 19:12:52,21,Female,Chemical,Public
+Drug Offense,Beijing,2021-03-20 03:49:36,45,Female,Gun,Public
+Cyber Crime,Guangdong,2022-03-11 02:30:26,46,Male,Chemical,Public
+Theft,Jiangsu,2024-09-15 22:44:28,50,Male,Knife,Public
+Vandalism,Shanghai,2024-04-03 09:41:55,55,Female,Blunt Object,Private
+Vandalism,Hunan,2022-11-26 19:38:29,24,Male,None,Private
+Vandalism,Jiangsu,2022-01-10 00:54:48,59,Male,Blunt Object,Private
+Vandalism,Sichuan,2023-12-08 21:35:21,38,Male,Blunt Object,Private
+Fraud,Guangdong,2020-08-09 06:07:06,26,Female,Blunt Object,Private
+Drug Offense,Jiangsu,2020-10-23 09:04:32,61,Male,Gun,Public
+Fraud,Zhejiang,2020-12-24 05:53:13,42,Female,Gun,Private
+Theft,Shanghai,2023-09-30 11:46:04,35,Male,Chemical,Private
+Fraud,Jiangsu,2024-04-11 20:46:47,32,Female,Blunt Object,Public
+Vandalism,Sichuan,2020-01-28 03:50:57,46,Female,Chemical,Private
+Burglary,Sichuan,2024-06-21 16:22:57,57,Male,Blunt Object,Private
+Theft,Shanghai,2021-03-16 13:57:09,47,Male,Blunt Object,Public
+Burglary,Shandong,2020-04-24 05:11:03,40,Male,None,Private
+Assault,Hunan,2022-04-29 15:01:23,55,Female,Chemical,Private
+Drug Offense,Hunan,2024-02-22 18:23:28,61,Male,Blunt Object,Public
+Theft,Beijing,2023-09-18 12:59:32,22,Female,Chemical,Public
+Drug Offense,Shanghai,2023-10-04 21:03:41,62,Female,None,Public
+Assault,Shanghai,2023-03-02 07:23:32,57,Male,Gun,Public
+Burglary,Jiangsu,2022-09-07 08:03:48,22,Female,Blunt Object,Private
+Vandalism,Henan,2021-03-22 14:14:28,48,Male,Knife,Private
+Fraud,Henan,2022-12-25 02:35:54,55,Female,Gun,Private
+Vandalism,Beijing,2021-06-29 19:23:05,34,Male,None,Private
+Drug Offense,Zhejiang,2023-07-26 08:37:59,31,Male,Blunt Object,Private
+Theft,Chongqing,2023-05-23 17:28:35,19,Male,Blunt Object,Public
+Vandalism,Henan,2020-06-04 14:04:12,61,Male,Gun,Public
+Cyber Crime,Sichuan,2021-08-13 11:29:01,55,Male,Blunt Object,Public
+Burglary,Sichuan,2023-06-29 12:48:44,26,Female,Gun,Public
+Burglary,Beijing,2024-06-01 12:21:25,21,Male,Blunt Object,Public
+Vandalism,Henan,2023-07-20 12:27:06,49,Female,Gun,Public
+Theft,Beijing,2023-06-24 17:49:37,37,Male,None,Public
+Fraud,Beijing,2021-06-02 23:04:06,35,Female,Chemical,Private
+Assault,Chongqing,2019-12-20 20:54:14,61,Male,Knife,Private
+Vandalism,Guangdong,2021-06-10 11:17:52,44,Male,None,Public
+Vandalism,Beijing,2021-02-24 15:44:35,41,Male,Gun,Public
+Vandalism,Jiangsu,2022-06-03 07:00:19,19,Male,Chemical,Private
+Fraud,Shandong,2021-09-08 15:06:55,51,Female,Blunt Object,Public
+Theft,Chongqing,2021-05-30 22:53:54,52,Female,None,Private
+Fraud,Guangdong,2020-02-09 10:08:40,43,Male,None,Public
+Vandalism,Sichuan,2020-09-08 21:35:54,34,Female,None,Private
+Burglary,Guangdong,2022-06-27 13:56:31,61,Female,Blunt Object,Private
+Cyber Crime,Shandong,2023-10-11 17:37:42,43,Female,None,Public
+Vandalism,Sichuan,2020-05-02 16:55:38,26,Female,Chemical,Private
+Theft,Guangdong,2023-02-12 12:18:30,57,Female,Gun,Private
+Vandalism,Shanghai,2021-06-08 05:51:14,19,Female,Chemical,Private
+Burglary,Beijing,2019-11-15 12:40:48,23,Male,Knife,Public
+Theft,Chongqing,2024-03-30 14:40:27,61,Female,Gun,Private
+Theft,Chongqing,2023-12-09 15:09:43,55,Male,None,Public
+Cyber Crime,Guangdong,2021-10-28 02:59:49,28,Male,Chemical,Private
+Vandalism,Sichuan,2020-09-04 14:57:57,56,Female,Gun,Public
+Fraud,Beijing,2023-04-26 08:18:58,28,Female,Blunt Object,Public
+Fraud,Shandong,2021-06-22 17:45:40,30,Male,Gun,Public
+Theft,Zhejiang,2023-08-20 14:07:30,54,Female,Blunt Object,Public
+Assault,Jiangsu,2024-05-29 11:33:13,30,Male,Chemical,Private
+Vandalism,Sichuan,2020-05-12 15:34:57,54,Male,None,Private
+Drug Offense,Shandong,2020-10-21 08:25:17,31,Male,Knife,Public
+Theft,Jiangsu,2023-08-31 02:08:35,56,Male,Gun,Private
+Drug Offense,Hunan,2023-06-27 12:43:24,39,Male,Knife,Public
+Cyber Crime,Sichuan,2020-03-20 08:30:48,44,Female,Knife,Public
+Vandalism,Henan,2024-06-09 06:53:33,32,Female,Chemical,Public
+Assault,Hunan,2021-11-30 02:41:49,25,Male,Chemical,Public
+Theft,Guangdong,2021-12-09 02:36:40,39,Female,Chemical,Public
+Assault,Henan,2022-05-10 08:46:30,50,Male,None,Public
+Cyber Crime,Shandong,2023-03-16 09:36:46,45,Female,None,Public
+Burglary,Beijing,2023-07-01 13:02:52,23,Male,Gun,Public
+Drug Offense,Sichuan,2021-06-15 17:58:03,19,Female,Blunt Object,Private
+Assault,Chongqing,2022-07-30 02:11:05,49,Female,Knife,Public
+Drug Offense,Guangdong,2021-07-11 20:27:35,35,Male,Chemical,Private
+Burglary,Guangdong,2020-02-16 19:51:33,61,Male,Chemical,Public
+Drug Offense,Sichuan,2023-05-13 23:40:02,29,Male,Chemical,Private
+Assault,Beijing,2020-01-19 20:54:36,25,Female,Blunt Object,Private
+Fraud,Sichuan,2021-08-10 05:48:19,25,Female,Knife,Private
+Assault,Guangdong,2022-04-27 19:02:30,56,Male,Blunt Object,Public
+Fraud,Shandong,2020-09-24 05:38:19,49,Male,Gun,Public
+Fraud,Chongqing,2024-05-20 12:28:48,47,Female,Chemical,Public
+Vandalism,Shanghai,2023-10-20 18:53:44,33,Male,Knife,Private
+Assault,Henan,2022-08-13 20:41:44,35,Female,Knife,Public
+Theft,Henan,2022-10-11 19:42:20,32,Male,None,Private
+Assault,Shandong,2022-12-14 02:23:21,55,Female,None,Public
+Fraud,Hunan,2020-08-29 11:22:31,23,Female,None,Public
+Burglary,Henan,2021-09-24 12:44:38,47,Female,None,Private
+Drug Offense,Hunan,2021-10-04 15:03:24,19,Male,Chemical,Public
+Theft,Hunan,2020-10-28 22:07:24,64,Male,Chemical,Public
+Burglary,Hunan,2023-08-10 09:47:39,32,Female,Gun,Public
+Drug Offense,Beijing,2024-10-09 17:16:15,28,Male,Blunt Object,Private
+Burglary,Beijing,2020-10-24 02:44:20,33,Female,None,Public
+Vandalism,Shandong,2022-02-06 16:17:05,56,Female,Blunt Object,Public
+Vandalism,Henan,2022-07-07 15:29:13,44,Male,Knife,Public
+Theft,Shandong,2022-08-15 01:53:25,23,Female,Gun,Private
+Theft,Sichuan,2020-10-29 17:22:07,37,Male,Chemical,Private
+Vandalism,Guangdong,2021-09-03 08:25:21,40,Male,Chemical,Public
+Vandalism,Guangdong,2021-11-05 07:03:24,52,Male,Blunt Object,Public
+Fraud,Chongqing,2021-01-24 01:44:01,51,Female,Gun,Public
+Fraud,Henan,2022-10-09 22:27:54,45,Female,Blunt Object,Public
+Burglary,Henan,2023-10-31 13:29:35,48,Male,Blunt Object,Public
+Drug Offense,Henan,2024-02-04 08:50:57,46,Male,Chemical,Public
+Vandalism,Sichuan,2023-04-17 14:28:02,58,Male,Chemical,Private
+Drug Offense,Shandong,2024-06-23 23:37:25,36,Male,Chemical,Private
+Burglary,Hunan,2020-01-28 17:06:38,27,Female,Chemical,Public
+Burglary,Shanghai,2021-02-17 14:22:01,27,Male,None,Public
+Vandalism,Chongqing,2024-05-12 14:52:43,30,Male,None,Private
+Drug Offense,Jiangsu,2021-10-26 00:56:36,29,Female,Blunt Object,Public
+Assault,Jiangsu,2021-06-23 11:22:13,39,Male,None,Public
+Assault,Zhejiang,2020-03-11 00:12:25,29,Female,Blunt Object,Private
+Fraud,Shandong,2021-12-14 09:51:31,47,Female,Gun,Private
+Theft,Hunan,2021-01-30 10:45:31,32,Female,Knife,Public
+Theft,Shanghai,2020-01-08 14:57:03,57,Female,Gun,Public
+Drug Offense,Shandong,2023-01-07 05:59:13,53,Male,Knife,Private
+Theft,Jiangsu,2022-08-19 01:38:06,46,Female,Blunt Object,Private
+Vandalism,Beijing,2024-02-28 17:40:54,28,Female,Chemical,Private
+Drug Offense,Shandong,2022-09-15 02:09:39,40,Female,Chemical,Public
+Fraud,Hunan,2024-01-20 06:55:29,49,Female,Gun,Private
+Vandalism,Beijing,2019-10-19 07:04:14,24,Female,None,Public
+Burglary,Jiangsu,2023-09-24 19:22:27,23,Female,Knife,Private
+Fraud,Guangdong,2020-05-21 19:20:28,45,Male,Blunt Object,Private
+Drug Offense,Sichuan,2021-06-14 15:35:39,25,Male,None,Private
+Assault,Beijing,2021-03-24 22:26:23,36,Female,Chemical,Public
+Assault,Chongqing,2022-11-24 18:15:43,27,Female,Gun,Public
+Theft,Jiangsu,2023-11-28 00:36:35,20,Female,Knife,Private
+Theft,Guangdong,2022-03-17 17:53:36,47,Male,None,Public
+Assault,Jiangsu,2023-03-30 16:50:27,37,Male,Knife,Public
+Burglary,Beijing,2020-12-08 22:42:02,25,Male,Blunt Object,Public
+Cyber Crime,Shandong,2021-11-21 01:19:17,49,Female,Blunt Object,Private
+Cyber Crime,Guangdong,2022-06-26 01:56:29,48,Male,Chemical,Public
+Drug Offense,Jiangsu,2020-05-19 14:42:16,47,Female,Knife,Public
+Assault,Shandong,2023-04-29 16:05:29,60,Male,Chemical,Private
+Fraud,Beijing,2020-10-13 01:02:20,44,Female,Gun,Public
+Cyber Crime,Shandong,2023-08-25 06:46:08,51,Female,Blunt Object,Private
+Assault,Beijing,2020-05-12 13:25:55,33,Female,Blunt Object,Public
+Cyber Crime,Shanghai,2021-11-30 13:50:24,24,Male,None,Private
+Fraud,Zhejiang,2020-07-24 17:02:39,49,Male,None,Private
+Theft,Hunan,2023-06-23 17:37:38,43,Female,Blunt Object,Private
+Burglary,Zhejiang,2021-02-28 18:29:14,21,Male,Blunt Object,Public
+Assault,Hunan,2020-03-27 06:56:07,25,Female,Chemical,Public
+Theft,Henan,2022-02-10 00:06:44,41,Female,Blunt Object,Public
+Fraud,Beijing,2023-05-04 04:56:05,34,Female,Gun,Private
+Cyber Crime,Chongqing,2021-03-26 12:25:38,60,Female,Gun,Public
+Vandalism,Henan,2023-09-10 07:46:47,54,Male,Blunt Object,Private
+Theft,Beijing,2023-07-16 05:48:32,24,Male,Chemical,Public
+Assault,Zhejiang,2022-06-19 01:15:34,29,Female,Blunt Object,Public
+Assault,Guangdong,2021-03-05 09:24:39,30,Female,None,Public
+Theft,Shandong,2022-04-22 10:03:57,43,Female,Blunt Object,Private
+Theft,Shanghai,2023-12-24 15:08:44,33,Male,Chemical,Private
+Vandalism,Henan,2023-11-30 14:53:47,63,Male,Blunt Object,Private
+Cyber Crime,Shandong,2023-09-20 03:09:24,64,Male,Blunt Object,Private
+Drug Offense,Sichuan,2023-10-05 18:01:42,24,Male,Chemical,Private
+Fraud,Shandong,2021-06-19 16:23:56,29,Female,Blunt Object,Public
+Cyber Crime,Guangdong,2023-04-11 18:57:15,51,Female,None,Private
+Assault,Chongqing,2023-10-22 23:41:55,54,Female,Blunt Object,Public
+Cyber Crime,Zhejiang,2024-07-14 14:20:45,23,Female,None,Private
+Cyber Crime,Henan,2022-03-08 05:17:27,30,Female,Knife,Private
+Drug Offense,Sichuan,2021-02-04 16:40:10,49,Male,Chemical,Private
+Burglary,Zhejiang,2021-10-01 23:51:50,26,Male,Gun,Private
+Theft,Henan,2023-10-24 15:26:26,32,Male,Blunt Object,Private
+Burglary,Henan,2023-03-16 06:03:20,42,Female,Knife,Private
+Cyber Crime,Guangdong,2024-01-06 19:17:51,21,Female,Blunt Object,Private
+Cyber Crime,Chongqing,2023-11-04 19:59:29,59,Female,Gun,Public
+Assault,Guangdong,2019-11-04 15:14:01,22,Female,Blunt Object,Public
+Theft,Chongqing,2020-06-27 06:12:35,23,Male,Blunt Object,Private
+Assault,Shanghai,2023-11-24 22:08:09,60,Female,None,Public
+Burglary,Henan,2023-12-03 06:50:22,28,Female,Blunt Object,Private
+Theft,Henan,2020-05-26 22:27:57,20,Male,Blunt Object,Public
+Vandalism,Henan,2020-03-19 05:50:05,35,Male,Chemical,Private
+Burglary,Zhejiang,2021-10-30 13:16:42,33,Female,Gun,Private
+Assault,Shanghai,2023-12-26 03:37:26,37,Female,Chemical,Private
+Cyber Crime,Shanghai,2023-07-26 23:44:03,51,Male,None,Private
+Drug Offense,Chongqing,2021-09-28 06:13:04,30,Female,Gun,Private
+Drug Offense,Hunan,2020-05-10 09:51:35,47,Male,None,Public
+Theft,Chongqing,2023-10-18 00:07:29,53,Male,Knife,Private
+Drug Offense,Shandong,2021-10-25 22:20:29,51,Female,None,Public
+Fraud,Chongqing,2023-06-22 10:13:46,59,Female,Gun,Public
+Assault,Henan,2023-12-11 23:20:08,24,Male,Knife,Public
+Theft,Beijing,2023-02-06 20:25:58,51,Female,Knife,Public
+Cyber Crime,Shanghai,2024-09-17 15:39:30,47,Male,Knife,Public
+Fraud,Chongqing,2021-02-06 16:30:47,27,Male,Blunt Object,Public
+Theft,Shandong,2020-08-19 21:17:10,58,Male,Blunt Object,Private
+Cyber Crime,Henan,2020-05-31 22:00:42,44,Female,Gun,Private
+Assault,Shandong,2023-06-10 10:27:46,39,Female,Blunt Object,Private
+Fraud,Hunan,2021-10-13 06:34:47,49,Female,Gun,Public
+Fraud,Jiangsu,2019-12-31 06:19:08,60,Male,Blunt Object,Public
+Drug Offense,Henan,2023-11-21 00:29:12,36,Male,Blunt Object,Public
+Theft,Henan,2023-05-05 18:25:57,64,Female,Knife,Private
+Assault,Hunan,2020-08-21 05:13:15,20,Female,Gun,Public
+Vandalism,Guangdong,2020-06-16 09:03:05,54,Female,Gun,Private
+Assault,Zhejiang,2022-10-05 20:40:27,26,Male,None,Private
+Vandalism,Jiangsu,2022-06-10 17:09:47,63,Female,Knife,Public
+Fraud,Beijing,2021-11-29 08:02:33,27,Male,Chemical,Private
+Burglary,Guangdong,2024-08-18 18:38:52,22,Female,Knife,Public
+Vandalism,Sichuan,2020-10-20 09:39:11,49,Male,Chemical,Public
+Vandalism,Sichuan,2019-12-19 05:48:41,21,Female,Chemical,Public
+Burglary,Henan,2023-02-11 03:12:10,38,Female,Gun,Public
+Assault,Henan,2021-12-15 10:48:51,31,Female,Blunt Object,Private
+Fraud,Henan,2021-05-09 10:10:42,62,Female,None,Private
+Assault,Shanghai,2021-07-01 09:44:45,56,Female,Knife,Private
+Burglary,Chongqing,2022-06-18 16:14:32,46,Female,Chemical,Private
+Drug Offense,Shandong,2021-03-09 13:44:38,51,Female,Blunt Object,Private
+Fraud,Shanghai,2023-08-21 14:27:58,56,Male,Chemical,Private
+Assault,Shandong,2020-07-02 15:32:32,61,Male,Knife,Private
+Drug Offense,Beijing,2022-06-30 18:34:11,25,Male,Gun,Private
+Vandalism,Beijing,2023-12-14 02:50:33,36,Male,Blunt Object,Public
+Theft,Jiangsu,2021-02-12 03:18:28,24,Female,Knife,Private
+Drug Offense,Beijing,2021-08-07 11:36:51,58,Male,Chemical,Private
+Theft,Henan,2022-09-24 02:15:46,47,Male,Chemical,Public
+Theft,Guangdong,2022-07-13 05:36:15,51,Male,Blunt Object,Private
+Theft,Beijing,2024-05-19 08:01:26,39,Male,Gun,Private
+Burglary,Zhejiang,2021-06-18 15:00:48,48,Female,Chemical,Public
+Drug Offense,Guangdong,2021-07-11 23:25:49,35,Female,Knife,Public
+Vandalism,Guangdong,2024-01-29 08:12:48,42,Male,Blunt Object,Private
+Cyber Crime,Beijing,2023-12-18 12:51:55,29,Female,Gun,Public
+Theft,Chongqing,2022-05-25 17:59:17,25,Male,Chemical,Public
+Assault,Shanghai,2023-03-11 02:06:17,62,Male,Gun,Private
+Assault,Shandong,2023-06-03 02:35:01,37,Male,Gun,Public
+Assault,Henan,2021-01-14 02:44:57,62,Male,None,Public
+Assault,Henan,2020-02-26 07:12:28,21,Male,Chemical,Private
+Fraud,Sichuan,2020-12-27 11:43:42,61,Female,Blunt Object,Private
+Fraud,Zhejiang,2020-11-14 14:29:26,24,Male,None,Private
+Theft,Beijing,2022-03-28 17:47:58,22,Female,Knife,Private
+Cyber Crime,Zhejiang,2021-11-27 00:03:12,57,Female,Blunt Object,Public
+Drug Offense,Beijing,2022-10-26 02:50:35,19,Female,Knife,Public
+Theft,Shanghai,2023-07-23 03:46:20,62,Male,None,Private
+Assault,Jiangsu,2023-07-25 02:14:10,43,Male,Gun,Private
+Vandalism,Zhejiang,2020-07-16 16:07:14,45,Male,Blunt Object,Public
+Assault,Shanghai,2023-04-26 03:29:23,50,Male,Chemical,Private
+Vandalism,Chongqing,2023-07-09 14:29:10,43,Female,Blunt Object,Public
+Assault,Shandong,2022-08-23 21:34:18,30,Male,Chemical,Private
+Assault,Shanghai,2021-07-05 22:31:09,26,Female,Knife,Private
+Vandalism,Beijing,2022-08-21 09:34:52,36,Male,Knife,Private
+Vandalism,Jiangsu,2021-12-27 19:48:21,18,Female,Knife,Private
+Vandalism,Zhejiang,2023-04-23 03:53:26,42,Male,Blunt Object,Public
+Theft,Sichuan,2020-10-11 18:08:40,32,Female,Chemical,Private
+Vandalism,Shanghai,2022-09-20 10:07:50,48,Female,None,Private
+Theft,Shanghai,2024-08-11 12:24:45,42,Male,Gun,Private
+Burglary,Hunan,2020-11-28 08:53:59,22,Female,None,Public
+Fraud,Hunan,2020-09-17 00:02:23,53,Female,Chemical,Public
+Fraud,Zhejiang,2021-04-12 03:44:28,39,Female,None,Public
+Burglary,Shanghai,2024-09-16 10:05:59,20,Male,Gun,Private
+Fraud,Guangdong,2021-05-17 10:53:33,35,Male,None,Public
+Assault,Hunan,2019-11-29 18:20:34,41,Female,None,Public
+Fraud,Jiangsu,2022-12-17 09:26:19,37,Male,Knife,Public
+Burglary,Beijing,2020-12-08 17:40:52,37,Male,None,Private
+Assault,Sichuan,2021-03-25 19:58:51,37,Male,Knife,Public
+Burglary,Zhejiang,2020-05-30 03:28:20,30,Female,Blunt Object,Public
+Cyber Crime,Chongqing,2023-08-26 06:05:27,48,Male,Blunt Object,Public
+Drug Offense,Shandong,2020-01-08 05:27:00,52,Female,Knife,Private
+Cyber Crime,Guangdong,2023-08-05 23:41:19,33,Male,Blunt Object,Private
+Drug Offense,Jiangsu,2024-05-11 20:39:46,23,Female,Gun,Private
+Assault,Zhejiang,2023-03-11 19:10:49,26,Male,Knife,Private
+Cyber Crime,Shandong,2020-01-19 02:06:46,22,Male,Knife,Private
+Assault,Shandong,2020-02-02 14:25:47,54,Female,None,Public
+Vandalism,Chongqing,2021-11-11 02:17:56,46,Female,None,Public
+Theft,Sichuan,2020-03-20 15:36:24,62,Male,Blunt Object,Public
+Vandalism,Guangdong,2021-06-01 17:38:01,26,Female,Knife,Public
+Burglary,Zhejiang,2023-11-22 02:41:17,36,Female,Blunt Object,Private
+Burglary,Shanghai,2022-09-03 19:19:00,24,Male,Knife,Public
+Assault,Jiangsu,2022-02-12 13:49:59,54,Female,Chemical,Public
+Fraud,Sichuan,2020-12-07 10:23:11,55,Female,Knife,Public
+Drug Offense,Zhejiang,2023-06-17 04:44:25,54,Male,Blunt Object,Public
+Burglary,Beijing,2023-12-17 05:31:43,57,Male,Chemical,Private
+Theft,Beijing,2023-01-28 06:35:39,25,Female,None,Private
+Fraud,Chongqing,2021-06-14 12:30:12,38,Female,Knife,Public
+Fraud,Jiangsu,2024-02-10 21:21:46,22,Male,Blunt Object,Private
+Drug Offense,Shandong,2020-05-11 04:39:19,50,Male,Chemical,Public
+Drug Offense,Guangdong,2022-08-24 09:24:31,33,Male,Gun,Public
+Fraud,Henan,2023-09-24 04:37:12,43,Male,Blunt Object,Private
+Burglary,Jiangsu,2021-03-23 00:35:10,29,Male,Chemical,Private
+Assault,Shandong,2020-09-09 16:25:00,49,Male,Chemical,Public
+Drug Offense,Zhejiang,2023-09-13 05:12:30,42,Female,Knife,Public
+Theft,Guangdong,2020-11-19 01:59:20,44,Male,None,Private
+Fraud,Shanghai,2023-09-10 06:52:10,34,Male,Chemical,Public
+Burglary,Chongqing,2022-09-28 00:00:13,63,Male,Gun,Public
+Burglary,Shandong,2020-04-26 09:50:57,19,Female,Chemical,Public
+Cyber Crime,Henan,2024-03-14 10:35:12,63,Male,None,Public
+Cyber Crime,Guangdong,2022-03-04 23:57:14,34,Female,Knife,Private
+Burglary,Jiangsu,2024-04-21 09:19:07,23,Female,None,Private
+Fraud,Jiangsu,2023-04-11 02:36:04,40,Male,Blunt Object,Public
+Theft,Henan,2021-08-02 01:17:28,29,Male,None,Private
+Assault,Chongqing,2019-11-12 08:54:23,51,Male,Gun,Public
+Cyber Crime,Guangdong,2020-07-25 12:02:58,51,Male,Gun,Private
+Vandalism,Guangdong,2024-08-12 14:09:25,52,Female,Gun,Private
+Burglary,Zhejiang,2021-03-21 07:27:18,56,Female,Chemical,Private
+Burglary,Shandong,2020-11-26 12:32:10,30,Male,Blunt Object,Public
+Assault,Shandong,2020-04-21 18:38:28,43,Male,None,Public
+Assault,Zhejiang,2023-10-23 01:21:44,60,Female,Chemical,Public
+Fraud,Guangdong,2022-01-03 13:44:06,46,Female,Chemical,Public
+Vandalism,Jiangsu,2024-02-12 07:06:02,37,Male,Blunt Object,Public
+Vandalism,Chongqing,2023-07-26 15:49:03,47,Male,Blunt Object,Private
+Fraud,Beijing,2020-03-30 03:01:26,23,Female,Chemical,Private
+Vandalism,Shandong,2021-12-17 21:45:54,38,Female,None,Public
+Burglary,Shanghai,2022-04-16 04:49:27,58,Female,None,Public
+Cyber Crime,Shanghai,2021-02-16 12:57:12,46,Male,Chemical,Private
+Burglary,Sichuan,2020-10-03 03:45:18,22,Female,Chemical,Private
+Vandalism,Jiangsu,2024-04-15 23:28:23,40,Male,None,Private
+Assault,Zhejiang,2022-11-23 18:40:54,27,Female,None,Private
+Theft,Shanghai,2021-07-23 03:09:21,57,Male,None,Private
+Burglary,Guangdong,2023-10-17 03:22:34,31,Female,Knife,Public
+Vandalism,Jiangsu,2020-03-24 08:25:30,20,Male,Blunt Object,Public
+Burglary,Shanghai,2020-12-25 19:30:57,58,Female,Chemical,Public
+Theft,Shanghai,2021-02-12 07:25:13,39,Male,Blunt Object,Private
+Assault,Hunan,2021-09-22 22:47:12,52,Female,Knife,Private
+Assault,Jiangsu,2023-02-07 03:35:22,44,Male,Gun,Public
+Vandalism,Hunan,2023-05-06 10:18:38,39,Female,Blunt Object,Private
+Vandalism,Beijing,2023-06-11 01:09:49,39,Female,Gun,Public
+Drug Offense,Henan,2023-12-05 15:09:23,60,Female,None,Public
+Vandalism,Guangdong,2021-04-22 18:03:03,33,Female,Knife,Public
+Theft,Shandong,2022-04-05 03:05:16,46,Female,Gun,Public
+Burglary,Sichuan,2020-05-03 11:16:44,50,Male,None,Private
+Assault,Shanghai,2024-06-21 05:14:29,26,Male,Knife,Private
+Fraud,Shandong,2023-09-20 03:19:28,31,Male,Knife,Public
+Theft,Chongqing,2024-06-29 10:47:29,27,Female,Blunt Object,Public
+Vandalism,Chongqing,2020-10-20 07:00:16,28,Female,Gun,Public
+Assault,Sichuan,2022-10-08 01:16:31,21,Male,Gun,Private
+Cyber Crime,Sichuan,2020-06-25 12:55:34,61,Male,Knife,Public
+Fraud,Sichuan,2021-06-20 13:41:32,52,Male,Blunt Object,Public
+Vandalism,Hunan,2020-06-17 17:46:18,62,Male,Blunt Object,Private
+Assault,Guangdong,2024-10-06 17:46:23,57,Male,Knife,Public
+Theft,Guangdong,2023-10-08 23:28:25,61,Female,Gun,Public
+Theft,Guangdong,2023-11-14 06:14:55,41,Male,None,Public
+Assault,Zhejiang,2023-12-22 03:56:57,43,Male,Chemical,Private
+Cyber Crime,Henan,2021-05-20 14:05:58,62,Female,Knife,Public
+Theft,Guangdong,2020-10-10 12:08:01,24,Female,Gun,Public
+Burglary,Beijing,2020-09-16 17:07:53,45,Male,None,Private
+Vandalism,Jiangsu,2020-02-16 11:25:55,51,Male,Knife,Public
+Assault,Beijing,2019-12-20 21:18:10,60,Female,Knife,Public
+Cyber Crime,Hunan,2024-09-28 06:38:16,46,Male,Blunt Object,Private
+Vandalism,Guangdong,2020-07-22 21:57:04,20,Female,None,Private
+Drug Offense,Shandong,2020-01-12 21:06:52,34,Male,Blunt Object,Private
+Assault,Chongqing,2024-08-02 20:16:51,63,Male,Blunt Object,Public
+Assault,Zhejiang,2021-12-28 14:46:06,33,Male,Gun,Public
+Fraud,Henan,2020-08-10 03:35:16,35,Male,Gun,Public
+Cyber Crime,Zhejiang,2023-09-13 07:25:47,29,Male,Knife,Public
+Drug Offense,Hunan,2019-12-26 12:45:15,51,Male,Chemical,Public
+Vandalism,Shanghai,2022-02-19 00:10:12,32,Female,Blunt Object,Private
+Assault,Guangdong,2023-05-05 02:04:00,46,Male,Gun,Private
+Vandalism,Jiangsu,2023-04-25 08:24:29,56,Male,None,Public
+Theft,Hunan,2022-10-22 18:40:35,54,Female,Knife,Public
+Assault,Shanghai,2023-05-06 01:50:18,50,Male,Gun,Private
+Fraud,Shandong,2022-04-07 10:29:27,29,Male,Knife,Private
+Cyber Crime,Sichuan,2023-03-26 04:03:47,54,Male,Blunt Object,Private
+Burglary,Guangdong,2021-01-16 18:31:45,52,Female,Chemical,Public
+Burglary,Zhejiang,2020-07-22 12:32:10,18,Female,Chemical,Public
+Fraud,Shandong,2020-10-17 23:14:17,46,Female,Knife,Public
+Cyber Crime,Hunan,2023-03-02 19:08:24,49,Female,Gun,Private
+Assault,Zhejiang,2024-02-09 02:48:43,49,Female,Chemical,Private
+Drug Offense,Jiangsu,2023-07-14 06:10:47,24,Female,Chemical,Public
+Burglary,Hunan,2021-01-12 04:31:39,22,Male,Gun,Public
+Burglary,Jiangsu,2021-06-28 21:47:31,59,Female,None,Public
+Cyber Crime,Shandong,2020-05-13 05:45:08,45,Female,Knife,Public
+Theft,Guangdong,2021-02-25 16:57:43,45,Male,Gun,Private
+Vandalism,Chongqing,2020-12-27 18:08:41,52,Male,Gun,Public
+Vandalism,Hunan,2022-01-31 22:27:10,21,Female,Chemical,Public
+Assault,Hunan,2021-02-12 02:03:33,27,Male,Gun,Public
+Vandalism,Zhejiang,2024-01-30 06:02:38,45,Female,Gun,Public
+Burglary,Sichuan,2022-08-03 11:11:09,21,Female,Knife,Public
+Cyber Crime,Henan,2021-06-03 07:13:42,34,Male,Knife,Public
+Vandalism,Henan,2022-05-14 01:37:10,46,Male,Knife,Private
+Cyber Crime,Shandong,2023-10-09 12:59:57,33,Female,Gun,Public
+Theft,Chongqing,2023-06-02 03:59:09,52,Female,None,Private
+Theft,Guangdong,2022-09-26 19:43:53,64,Male,Chemical,Public
+Vandalism,Zhejiang,2024-10-07 16:23:56,64,Male,Chemical,Public
+Fraud,Jiangsu,2022-08-29 15:52:02,52,Male,Blunt Object,Private
+Burglary,Henan,2020-03-14 01:33:48,19,Female,Gun,Public
+Fraud,Jiangsu,2024-02-06 01:33:25,31,Female,Blunt Object,Private
+Assault,Jiangsu,2022-08-01 04:44:00,40,Female,None,Public
+Cyber Crime,Hunan,2022-04-10 01:50:22,60,Female,Gun,Private
+Drug Offense,Beijing,2021-01-16 06:28:02,42,Male,Gun,Private
+Assault,Sichuan,2022-09-01 19:06:45,38,Male,Knife,Private
+Theft,Chongqing,2020-12-17 13:46:09,63,Female,Knife,Private
+Cyber Crime,Jiangsu,2023-03-02 02:48:58,55,Male,None,Private
+Fraud,Beijing,2023-02-11 12:05:49,41,Female,None,Public
+Vandalism,Beijing,2021-05-18 14:25:10,20,Female,None,Public
+Burglary,Sichuan,2020-03-26 05:39:50,58,Female,Knife,Public
+Vandalism,Shandong,2020-12-30 00:37:05,52,Female,None,Private
+Assault,Chongqing,2020-12-17 06:08:41,61,Female,Gun,Private
+Theft,Zhejiang,2022-05-25 08:23:53,46,Male,Chemical,Private
+Cyber Crime,Chongqing,2023-09-15 09:16:11,40,Female,Knife,Private
+Theft,Beijing,2020-05-29 07:21:17,32,Male,Blunt Object,Public
+Fraud,Jiangsu,2023-01-17 22:22:58,56,Male,Chemical,Public
+Assault,Shandong,2022-06-05 12:00:33,56,Female,Blunt Object,Public
+Burglary,Zhejiang,2021-04-07 19:28:55,27,Male,Knife,Private
+Vandalism,Jiangsu,2024-05-15 00:59:18,56,Female,Knife,Public
+Cyber Crime,Sichuan,2021-10-30 14:56:47,43,Female,Chemical,Public
+Cyber Crime,Chongqing,2020-06-02 23:37:44,61,Female,Gun,Public
+Drug Offense,Henan,2022-04-13 22:44:05,38,Male,None,Public
+Vandalism,Henan,2021-09-12 15:35:54,24,Female,Blunt Object,Public
+Theft,Guangdong,2022-02-07 23:10:44,27,Female,Chemical,Public
+Theft,Shanghai,2022-03-28 15:48:44,62,Male,Blunt Object,Private
+Fraud,Zhejiang,2020-10-29 11:19:12,26,Female,Gun,Public
+Cyber Crime,Hunan,2023-05-29 07:08:06,38,Female,Gun,Private
+Burglary,Hunan,2020-12-04 01:11:37,31,Female,None,Private
+Burglary,Hunan,2020-01-24 19:44:33,20,Female,Knife,Public
+Cyber Crime,Henan,2024-09-09 18:18:45,48,Female,Blunt Object,Public
+Burglary,Shandong,2024-05-30 06:49:37,32,Male,None,Private
+Vandalism,Shanghai,2022-08-20 21:41:22,37,Male,None,Public
+Assault,Shanghai,2020-01-15 08:19:02,24,Male,Chemical,Private
+Burglary,Chongqing,2024-01-22 19:15:42,19,Female,Knife,Public
+Assault,Beijing,2022-06-18 04:10:12,27,Female,Blunt Object,Private
+Fraud,Sichuan,2023-12-30 13:15:38,47,Male,Knife,Public
+Assault,Sichuan,2020-02-11 15:10:52,26,Female,Gun,Private
+Burglary,Guangdong,2021-09-06 22:34:42,27,Female,Blunt Object,Public
+Theft,Henan,2020-09-07 19:01:03,28,Male,Gun,Private
+Burglary,Sichuan,2020-11-23 05:37:54,60,Male,Gun,Private
+Fraud,Zhejiang,2024-04-11 05:31:53,52,Male,Blunt Object,Public
+Fraud,Sichuan,2024-08-19 17:28:29,30,Male,Knife,Private
+Fraud,Shandong,2021-08-21 18:16:28,44,Female,Gun,Public
+Theft,Henan,2022-06-18 18:56:10,25,Female,Knife,Private
+Burglary,Henan,2021-10-27 12:26:46,53,Female,None,Public
+Assault,Beijing,2024-01-13 05:10:00,47,Male,Knife,Private
+Cyber Crime,Guangdong,2023-03-01 05:32:24,21,Female,Blunt Object,Public
+Drug Offense,Sichuan,2020-05-27 08:53:33,24,Female,Blunt Object,Public
+Burglary,Guangdong,2024-08-22 07:21:57,52,Male,Blunt Object,Public
+Drug Offense,Sichuan,2020-09-07 21:09:58,26,Male,Blunt Object,Private
+Fraud,Chongqing,2019-10-18 20:41:15,58,Male,Knife,Private
+Fraud,Zhejiang,2022-08-10 15:40:12,40,Male,None,Private
+Assault,Shandong,2021-11-14 19:57:45,39,Female,Blunt Object,Private
+Burglary,Hunan,2023-06-15 07:30:35,64,Female,Blunt Object,Private
+Theft,Jiangsu,2023-06-06 15:14:30,44,Female,None,Private
+Drug Offense,Shandong,2019-11-09 07:22:24,38,Female,None,Public
+Vandalism,Beijing,2022-09-25 12:54:26,23,Male,Gun,Private
+Vandalism,Jiangsu,2021-06-06 13:10:32,46,Male,Knife,Public
+Vandalism,Jiangsu,2022-11-03 21:00:11,34,Male,Blunt Object,Public
+Theft,Guangdong,2022-02-25 06:42:28,27,Female,Knife,Public
+Vandalism,Jiangsu,2020-10-14 15:04:13,63,Male,Gun,Private
+Theft,Shanghai,2023-03-21 07:10:07,51,Male,None,Public
+Vandalism,Shandong,2020-04-01 06:39:39,27,Male,Gun,Public
+Theft,Beijing,2020-04-13 13:32:42,49,Female,Knife,Private
+Cyber Crime,Beijing,2021-05-14 00:28:23,34,Male,Chemical,Public
+Fraud,Sichuan,2021-07-05 11:51:58,52,Male,Gun,Public
+Drug Offense,Sichuan,2020-12-05 07:40:26,31,Female,Knife,Private
+Fraud,Shanghai,2024-09-05 10:21:20,58,Female,Knife,Private
+Theft,Jiangsu,2024-07-05 00:23:33,35,Female,Blunt Object,Private
+Vandalism,Henan,2022-04-06 16:04:25,52,Female,Blunt Object,Private
+Fraud,Zhejiang,2022-06-10 03:20:44,36,Female,Gun,Private
+Drug Offense,Henan,2020-11-08 02:23:54,34,Female,Knife,Public
+Drug Offense,Zhejiang,2023-02-23 01:06:13,35,Female,None,Public
+Drug Offense,Sichuan,2022-05-21 18:51:44,27,Male,None,Private
+Vandalism,Jiangsu,2020-02-18 20:03:10,39,Male,None,Private
+Vandalism,Chongqing,2021-01-22 07:12:45,32,Female,Chemical,Private
+Fraud,Hunan,2024-09-18 09:10:57,45,Male,Knife,Private
+Drug Offense,Chongqing,2020-02-05 05:32:30,42,Male,Chemical,Private
+Cyber Crime,Guangdong,2024-08-12 20:22:36,42,Male,Gun,Private
+Cyber Crime,Henan,2024-08-11 03:34:40,18,Male,Gun,Public
+Cyber Crime,Guangdong,2021-04-26 13:01:41,38,Male,Knife,Private
+Burglary,Sichuan,2021-03-14 09:05:09,55,Female,Chemical,Private
+Fraud,Jiangsu,2021-11-04 16:08:03,45,Female,None,Private
+Cyber Crime,Chongqing,2020-11-29 03:24:18,54,Male,Gun,Public
+Assault,Jiangsu,2022-12-15 15:59:52,29,Female,Knife,Public
+Drug Offense,Jiangsu,2024-05-28 16:45:46,34,Female,None,Private
+Burglary,Jiangsu,2021-09-12 11:54:55,28,Male,None,Private
+Cyber Crime,Hunan,2023-03-22 05:22:09,55,Female,None,Private
+Cyber Crime,Zhejiang,2023-09-10 09:45:14,20,Female,None,Private
+Burglary,Henan,2022-12-16 08:02:50,23,Male,Gun,Public
+Vandalism,Guangdong,2021-12-08 20:22:25,38,Male,Chemical,Private
+Fraud,Beijing,2022-03-20 08:58:26,32,Female,Knife,Public
+Fraud,Beijing,2020-05-12 14:47:56,57,Male,None,Public
+Theft,Chongqing,2024-04-10 18:43:11,64,Female,Blunt Object,Private
+Theft,Shanghai,2020-01-24 21:16:25,62,Male,None,Private
+Cyber Crime,Zhejiang,2023-08-15 21:45:35,50,Male,Blunt Object,Public
+Vandalism,Sichuan,2022-05-23 15:38:45,40,Female,Chemical,Public
+Burglary,Chongqing,2020-11-12 12:52:45,49,Female,None,Private
+Drug Offense,Sichuan,2020-11-03 03:46:12,33,Female,Knife,Private
+Vandalism,Beijing,2022-01-09 12:35:22,27,Female,Gun,Public
+Theft,Sichuan,2021-07-27 15:16:58,30,Female,None,Private
+Cyber Crime,Guangdong,2019-12-01 00:45:12,38,Male,Blunt Object,Public
+Fraud,Beijing,2022-03-08 09:32:59,25,Female,Chemical,Private
+Vandalism,Zhejiang,2023-02-15 14:10:21,40,Male,Blunt Object,Public
+Assault,Shanghai,2024-06-24 05:33:04,34,Female,None,Public
+Fraud,Shanghai,2024-05-19 16:44:45,21,Male,None,Private
+Burglary,Guangdong,2020-04-23 23:08:05,62,Male,Chemical,Private
+Assault,Zhejiang,2023-05-26 17:58:35,26,Male,Blunt Object,Public
+Burglary,Chongqing,2023-08-12 06:24:14,61,Female,Blunt Object,Public
+Vandalism,Guangdong,2020-04-01 18:45:28,57,Male,Blunt Object,Private
+Assault,Beijing,2023-12-23 14:30:05,36,Female,Gun,Private
+Assault,Jiangsu,2024-04-16 20:01:24,24,Male,Chemical,Private
+Cyber Crime,Chongqing,2022-05-11 08:30:32,58,Male,None,Public
+Fraud,Shanghai,2023-06-03 18:27:27,26,Male,Gun,Private
+Drug Offense,Jiangsu,2020-03-06 20:07:12,54,Male,None,Private
+Cyber Crime,Zhejiang,2024-02-18 16:12:32,51,Female,Gun,Public
+Burglary,Zhejiang,2021-03-28 10:18:47,46,Male,None,Public
+Theft,Hunan,2023-03-11 10:21:14,60,Female,None,Private
+Burglary,Hunan,2023-05-21 04:32:28,47,Female,None,Private
+Burglary,Guangdong,2023-09-25 16:30:56,44,Female,Knife,Private
+Drug Offense,Shandong,2020-12-16 18:03:21,37,Male,Knife,Public
+Cyber Crime,Henan,2023-01-23 16:30:45,36,Male,Knife,Private
+Cyber Crime,Zhejiang,2022-10-03 22:50:38,28,Male,Blunt Object,Private
+Theft,Sichuan,2022-03-27 00:32:14,25,Male,Knife,Private
+Burglary,Chongqing,2023-02-07 06:43:07,53,Female,Blunt Object,Private
+Drug Offense,Jiangsu,2022-05-31 01:44:24,56,Male,Chemical,Private
+Fraud,Beijing,2023-04-02 00:53:06,31,Male,Gun,Private
+Cyber Crime,Jiangsu,2019-10-28 01:26:26,30,Male,Knife,Public
+Vandalism,Zhejiang,2020-07-04 15:59:03,55,Male,None,Public
+Assault,Henan,2024-08-04 03:09:25,29,Female,Chemical,Public
+Fraud,Jiangsu,2022-07-09 14:27:52,56,Female,None,Private
+Burglary,Shandong,2020-11-30 23:15:08,33,Female,Chemical,Public
+Vandalism,Sichuan,2024-06-17 01:58:47,52,Male,Knife,Private
+Cyber Crime,Chongqing,2022-06-07 19:08:51,22,Male,Knife,Private
+Cyber Crime,Guangdong,2022-07-19 23:25:33,52,Female,Knife,Private
+Assault,Guangdong,2023-09-03 15:42:55,36,Female,Blunt Object,Private
+Cyber Crime,Shandong,2022-12-29 18:25:48,59,Male,None,Private
+Cyber Crime,Chongqing,2021-07-01 08:57:32,62,Male,Knife,Private
+Assault,Shandong,2022-10-20 14:26:27,54,Female,Chemical,Private
+Burglary,Henan,2020-01-10 22:53:03,48,Female,Chemical,Private
+Drug Offense,Sichuan,2022-10-25 10:48:05,61,Female,Chemical,Public
+Fraud,Chongqing,2019-10-13 19:11:25,45,Female,Gun,Public
+Vandalism,Zhejiang,2023-10-16 13:41:18,50,Male,None,Private
+Assault,Jiangsu,2023-09-28 12:01:14,61,Male,Chemical,Public
+Vandalism,Henan,2021-03-29 09:29:15,49,Male,Gun,Private
+Fraud,Hunan,2020-07-17 03:56:54,30,Male,Blunt Object,Private
+Drug Offense,Shanghai,2019-11-28 07:04:29,51,Female,Blunt Object,Private
+Fraud,Shandong,2021-04-07 22:13:14,21,Male,Chemical,Private
+Assault,Hunan,2023-04-25 03:00:21,50,Male,Chemical,Private
+Assault,Chongqing,2024-02-14 00:09:42,40,Female,None,Public
+Assault,Zhejiang,2022-04-21 18:28:56,26,Female,Gun,Public
+Assault,Zhejiang,2021-07-04 17:14:32,64,Female,Blunt Object,Private
+Vandalism,Shandong,2021-08-01 23:38:10,58,Female,Knife,Private
+Theft,Chongqing,2024-02-25 21:13:00,45,Male,Knife,Public
+Assault,Guangdong,2021-09-03 09:11:20,25,Male,Blunt Object,Public
+Vandalism,Zhejiang,2020-09-08 00:22:24,46,Female,Knife,Public
+Cyber Crime,Chongqing,2021-06-01 10:00:10,56,Male,None,Private
+Assault,Guangdong,2023-06-01 05:29:23,55,Female,Blunt Object,Private
+Burglary,Jiangsu,2023-02-25 14:33:52,35,Female,Blunt Object,Public
+Assault,Chongqing,2022-07-31 03:30:34,37,Female,Chemical,Private
+Drug Offense,Jiangsu,2022-03-11 12:49:05,33,Female,Chemical,Public
+Assault,Beijing,2024-06-12 21:15:09,47,Male,None,Private
+Burglary,Sichuan,2019-12-15 07:48:39,39,Male,Knife,Private
+Vandalism,Zhejiang,2020-10-11 01:18:23,40,Female,Chemical,Public
+Vandalism,Shanghai,2021-11-20 22:44:28,28,Female,Knife,Public
+Fraud,Sichuan,2021-10-25 10:04:33,33,Female,Blunt Object,Public
+Vandalism,Guangdong,2021-07-01 16:59:55,53,Female,Gun,Private
+Cyber Crime,Shanghai,2021-03-27 07:35:24,28,Male,Knife,Public
+Drug Offense,Shanghai,2023-05-29 10:19:17,41,Female,None,Public
+Drug Offense,Beijing,2021-12-15 12:10:10,58,Female,Blunt Object,Private
+Theft,Guangdong,2024-04-27 19:29:01,35,Female,Knife,Private
+Drug Offense,Guangdong,2022-09-19 21:43:44,62,Female,None,Public
+Drug Offense,Jiangsu,2022-04-25 13:02:02,27,Female,Chemical,Public
+Drug Offense,Henan,2023-09-07 09:53:08,28,Female,None,Public
+Burglary,Beijing,2022-05-31 09:51:28,44,Female,Gun,Private
+Burglary,Henan,2022-12-25 23:32:15,64,Female,None,Public
+Drug Offense,Shanghai,2021-01-10 06:07:45,52,Male,None,Public
+Burglary,Zhejiang,2020-03-03 02:20:08,28,Female,Gun,Public
+Burglary,Shanghai,2022-01-14 19:43:08,62,Male,None,Private
+Theft,Beijing,2022-04-28 05:52:00,48,Male,Chemical,Private
+Assault,Shanghai,2020-06-13 07:09:27,29,Male,Blunt Object,Public
+Drug Offense,Zhejiang,2024-04-21 22:28:19,42,Female,Blunt Object,Public
+Drug Offense,Chongqing,2023-03-30 02:29:26,23,Male,None,Private
+Assault,Jiangsu,2020-05-30 13:36:35,57,Female,Knife,Private
+Vandalism,Guangdong,2022-07-07 07:20:04,21,Male,Knife,Private
+Burglary,Henan,2024-04-30 21:03:45,18,Male,Blunt Object,Public
+Drug Offense,Shandong,2019-11-29 06:48:00,51,Male,Knife,Private
+Drug Offense,Zhejiang,2023-10-29 21:59:06,40,Female,Gun,Public
+Cyber Crime,Henan,2022-05-05 11:31:23,55,Male,Blunt Object,Private
+Cyber Crime,Hunan,2022-03-15 08:24:53,51,Male,Blunt Object,Private
+Theft,Guangdong,2022-06-18 16:40:33,23,Male,Gun,Private
+Vandalism,Guangdong,2021-10-21 19:38:32,33,Male,Blunt Object,Public
+Burglary,Chongqing,2020-10-17 00:41:45,55,Male,Blunt Object,Private
+Vandalism,Sichuan,2020-11-06 19:30:54,35,Male,Knife,Private
+Fraud,Chongqing,2020-01-30 13:56:32,22,Male,Gun,Public
+Theft,Shanghai,2021-04-12 06:18:54,50,Male,Gun,Private
+Burglary,Guangdong,2023-08-07 12:31:47,19,Male,Gun,Private
+Cyber Crime,Henan,2021-11-05 05:22:49,23,Female,Blunt Object,Private
+Burglary,Chongqing,2020-06-17 11:02:30,39,Male,Gun,Private
+Theft,Hunan,2023-09-04 05:09:04,62,Female,Knife,Public
+Burglary,Chongqing,2020-01-21 01:54:54,52,Male,Blunt Object,Public
+Drug Offense,Zhejiang,2019-10-17 13:29:27,37,Male,Knife,Public
+Assault,Shandong,2024-06-05 00:17:27,55,Male,Knife,Public
+Theft,Henan,2023-03-10 20:15:41,57,Male,Chemical,Public
+Vandalism,Jiangsu,2023-05-27 16:53:13,39,Male,None,Private
+Cyber Crime,Shandong,2020-03-02 05:55:20,43,Male,Blunt Object,Private
+Fraud,Shandong,2023-05-11 16:02:02,61,Female,Chemical,Private
+Fraud,Guangdong,2020-06-24 17:50:25,25,Female,Gun,Public
+Drug Offense,Henan,2019-10-27 02:57:13,44,Male,Knife,Private
+Vandalism,Shanghai,2023-03-23 22:41:32,50,Male,Chemical,Private
+Burglary,Henan,2022-08-14 16:17:51,40,Male,Chemical,Private
+Fraud,Beijing,2023-06-21 18:24:40,49,Female,Chemical,Private
+Burglary,Hunan,2024-09-08 19:41:51,30,Male,None,Public
+Assault,Zhejiang,2022-04-17 16:05:48,53,Female,Chemical,Private
+Theft,Jiangsu,2020-08-17 09:26:27,45,Male,None,Public
+Vandalism,Beijing,2020-01-26 01:40:03,61,Male,None,Public
+Fraud,Shandong,2024-01-24 23:52:47,57,Male,Knife,Private
+Drug Offense,Henan,2021-07-02 09:41:56,62,Male,None,Private
+Theft,Beijing,2022-12-24 20:01:14,29,Male,None,Public
+Theft,Henan,2022-07-09 09:36:56,46,Male,Chemical,Private
+Vandalism,Hunan,2020-01-01 14:31:52,28,Male,Knife,Public
+Assault,Hunan,2020-06-11 22:18:53,46,Female,Chemical,Public
+Assault,Zhejiang,2024-10-10 12:27:49,41,Female,Blunt Object,Public
+Assault,Zhejiang,2023-11-07 22:13:00,20,Male,None,Private
+Vandalism,Shandong,2023-11-20 06:54:48,30,Female,None,Public
+Burglary,Chongqing,2020-10-18 02:16:46,22,Female,Blunt Object,Private
+Assault,Shandong,2021-09-20 21:27:03,37,Male,Knife,Private
+Fraud,Sichuan,2019-10-17 10:41:43,41,Male,Chemical,Private
+Cyber Crime,Sichuan,2024-01-15 11:50:30,26,Male,Gun,Public
+Theft,Sichuan,2019-11-26 11:00:28,48,Male,None,Public
+Theft,Shanghai,2020-02-23 19:35:31,40,Male,Blunt Object,Public
+Burglary,Jiangsu,2023-08-06 10:25:42,37,Female,Chemical,Public
+Vandalism,Henan,2021-05-04 20:01:50,20,Female,None,Public
+Theft,Zhejiang,2021-06-04 23:21:04,44,Male,Gun,Private
+Cyber Crime,Hunan,2022-11-02 23:43:39,25,Female,Blunt Object,Public
+Drug Offense,Shandong,2023-02-15 11:11:49,54,Male,None,Public
+Vandalism,Sichuan,2020-12-16 21:36:46,59,Female,Blunt Object,Public
+Assault,Zhejiang,2020-12-13 11:11:45,51,Male,Chemical,Private
+Assault,Sichuan,2020-12-08 06:17:06,61,Female,Chemical,Private
+Cyber Crime,Hunan,2022-12-14 15:40:59,29,Female,Knife,Public
+Cyber Crime,Guangdong,2022-01-23 17:38:03,49,Female,Chemical,Private
+Fraud,Chongqing,2022-05-07 09:05:44,63,Female,Knife,Private
+Vandalism,Chongqing,2020-07-03 15:38:09,20,Male,None,Private
+Fraud,Shanghai,2021-07-15 11:20:12,47,Male,Knife,Public
+Theft,Guangdong,2023-11-14 02:15:17,38,Female,Blunt Object,Public
+Theft,Jiangsu,2024-05-20 10:37:59,30,Female,Chemical,Private
+Theft,Henan,2022-12-06 07:57:27,24,Female,Knife,Private
+Fraud,Guangdong,2019-10-17 06:46:03,48,Female,Blunt Object,Private
+Burglary,Henan,2021-08-03 18:52:09,33,Male,Chemical,Private
+Burglary,Henan,2023-11-04 06:28:02,53,Male,Knife,Private
+Vandalism,Shanghai,2024-02-29 01:23:53,34,Female,Knife,Private
+Theft,Chongqing,2024-07-24 00:27:42,61,Male,Gun,Public
+Cyber Crime,Hunan,2021-05-26 12:43:37,38,Male,Gun,Public
+Cyber Crime,Henan,2022-04-24 02:46:01,37,Female,None,Private
+Vandalism,Chongqing,2021-02-18 18:57:58,42,Male,Knife,Public
+Theft,Chongqing,2023-12-14 15:24:45,29,Male,Gun,Private
+Fraud,Shanghai,2022-06-25 09:35:52,54,Female,Chemical,Public
+Theft,Hunan,2021-04-19 20:27:07,39,Female,Blunt Object,Public
+Fraud,Chongqing,2022-07-20 04:17:58,39,Male,Blunt Object,Public
+Theft,Chongqing,2020-11-18 04:32:23,23,Male,Knife,Public
+Vandalism,Hunan,2020-04-14 10:52:16,47,Male,None,Public
+Vandalism,Beijing,2021-02-05 07:34:46,55,Female,None,Public
+Cyber Crime,Chongqing,2023-08-29 14:28:39,62,Female,Chemical,Public
+Cyber Crime,Chongqing,2022-08-27 13:37:53,64,Female,None,Public
+Burglary,Shandong,2023-03-12 21:19:59,46,Male,None,Public
+Fraud,Guangdong,2023-06-12 03:34:16,33,Male,Blunt Object,Public
+Vandalism,Sichuan,2020-01-12 12:04:50,20,Male,Gun,Private
+Fraud,Shandong,2023-12-25 14:37:16,50,Male,Knife,Private
+Fraud,Shandong,2022-01-13 05:28:49,40,Male,None,Private
+Drug Offense,Guangdong,2022-02-18 15:53:43,37,Male,None,Public
+Theft,Hunan,2023-03-24 15:55:56,28,Male,None,Public
+Assault,Shanghai,2021-04-18 10:46:16,63,Female,Blunt Object,Private
+Cyber Crime,Zhejiang,2023-04-18 13:42:39,32,Male,None,Public
+Theft,Hunan,2024-09-05 18:26:06,61,Male,None,Private
+Cyber Crime,Sichuan,2019-12-27 01:39:48,54,Male,Gun,Private
+Vandalism,Shandong,2020-11-20 21:53:29,53,Male,Blunt Object,Private
+Cyber Crime,Henan,2024-05-13 23:06:04,39,Female,Blunt Object,Private
+Vandalism,Beijing,2023-01-04 07:07:17,56,Male,None,Private
+Cyber Crime,Henan,2020-10-22 06:58:52,42,Male,Gun,Private
+Burglary,Jiangsu,2021-10-14 07:35:27,58,Female,Knife,Private
+Vandalism,Hunan,2019-10-17 22:06:19,45,Female,Blunt Object,Public
+Fraud,Chongqing,2021-12-04 11:26:48,63,Male,Knife,Public
+Burglary,Shandong,2023-03-28 10:16:47,51,Male,Gun,Private
+Vandalism,Zhejiang,2022-06-21 18:55:48,35,Male,Chemical,Private
+Fraud,Hunan,2024-02-16 02:17:14,40,Male,Blunt Object,Private
+Fraud,Sichuan,2020-10-14 21:44:57,58,Female,Gun,Private
+Burglary,Hunan,2023-01-10 21:25:37,34,Male,None,Public
+Cyber Crime,Shanghai,2024-07-19 03:20:40,51,Male,Chemical,Private
+Vandalism,Jiangsu,2024-09-20 21:12:48,55,Male,Blunt Object,Private
+Cyber Crime,Zhejiang,2024-05-17 10:03:17,27,Female,Chemical,Private
+Theft,Shanghai,2021-07-02 10:32:12,18,Male,Blunt Object,Public
+Cyber Crime,Hunan,2023-09-29 12:50:40,18,Male,Knife,Private
+Vandalism,Beijing,2024-04-11 14:13:19,36,Female,Gun,Public
+Cyber Crime,Shanghai,2020-10-19 22:27:12,25,Female,Chemical,Public
+Assault,Jiangsu,2021-11-01 00:23:50,23,Female,Chemical,Public
+Theft,Guangdong,2020-09-27 17:24:46,27,Female,Blunt Object,Public
+Burglary,Guangdong,2020-12-03 19:14:16,64,Male,Chemical,Private
+Vandalism,Hunan,2020-08-12 13:38:29,28,Female,Blunt Object,Private
+Cyber Crime,Shanghai,2023-04-27 17:08:32,20,Male,Knife,Public
+Vandalism,Guangdong,2022-11-06 01:20:37,49,Female,Gun,Private
+Vandalism,Zhejiang,2019-12-19 02:34:06,21,Female,Chemical,Private
+Drug Offense,Zhejiang,2023-05-21 03:50:50,64,Female,Blunt Object,Public
+Drug Offense,Shanghai,2019-12-19 19:59:55,21,Female,Blunt Object,Private
+Drug Offense,Guangdong,2023-11-12 05:26:01,48,Male,Gun,Private
+Fraud,Shandong,2022-05-25 08:28:04,47,Female,Knife,Private
+Vandalism,Zhejiang,2020-04-26 04:36:10,63,Female,Gun,Public
+Drug Offense,Shanghai,2024-04-12 05:24:17,46,Female,Chemical,Private
+Burglary,Guangdong,2024-06-29 00:17:20,43,Female,Gun,Private
+Fraud,Chongqing,2020-01-19 03:16:33,55,Female,Blunt Object,Private
+Vandalism,Shandong,2024-01-30 10:01:36,31,Male,Blunt Object,Public
+Theft,Sichuan,2021-04-23 11:28:57,48,Male,Knife,Private
+Drug Offense,Hunan,2021-11-04 01:36:40,51,Female,Knife,Public
+Drug Offense,Guangdong,2023-12-28 23:54:14,42,Male,Knife,Private
+Vandalism,Jiangsu,2024-10-01 10:11:42,52,Female,Chemical,Public
+Drug Offense,Jiangsu,2021-03-17 21:06:54,36,Male,Knife,Public
+Assault,Hunan,2020-01-19 22:15:07,33,Male,Chemical,Private
+Assault,Hunan,2021-10-16 07:45:24,25,Female,Chemical,Private
+Fraud,Beijing,2021-02-18 04:28:59,22,Male,Gun,Public
+Fraud,Henan,2019-10-23 21:22:02,44,Male,Gun,Private
+Theft,Shanghai,2023-08-13 10:33:51,60,Female,Chemical,Private
+Theft,Guangdong,2019-11-19 18:04:29,57,Female,Gun,Private
+Vandalism,Hunan,2020-09-27 07:56:07,24,Female,Blunt Object,Public
+Assault,Beijing,2021-06-14 17:36:29,23,Female,Chemical,Private
+Assault,Zhejiang,2021-10-18 11:02:13,37,Female,None,Public
+Drug Offense,Henan,2022-11-18 04:22:05,42,Female,Blunt Object,Public
+Cyber Crime,Chongqing,2022-07-10 05:58:50,58,Male,Blunt Object,Private
+Cyber Crime,Zhejiang,2023-03-20 09:04:41,47,Female,Blunt Object,Public
+Drug Offense,Chongqing,2023-02-10 22:51:11,21,Male,None,Private
+Cyber Crime,Sichuan,2023-02-24 17:38:06,25,Male,Blunt Object,Private
+Vandalism,Shandong,2021-06-27 18:31:58,53,Female,None,Private
+Assault,Shandong,2024-05-27 15:35:35,51,Female,Gun,Public
+Assault,Zhejiang,2022-01-11 03:27:30,32,Female,Blunt Object,Public
+Cyber Crime,Henan,2021-04-02 23:53:49,41,Male,None,Private
+Vandalism,Shandong,2020-04-25 00:41:29,36,Female,Blunt Object,Public
+Burglary,Shandong,2022-07-25 09:48:31,49,Female,Blunt Object,Private
+Cyber Crime,Beijing,2024-02-07 01:14:18,64,Male,Knife,Private
+Cyber Crime,Chongqing,2020-09-10 16:18:50,56,Male,None,Private
+Fraud,Henan,2021-11-19 13:52:27,20,Male,Chemical,Private
+Fraud,Shandong,2023-07-22 01:42:34,22,Male,Knife,Public
+Cyber Crime,Henan,2020-08-02 05:56:03,55,Female,Chemical,Private
+Assault,Zhejiang,2020-11-20 08:05:31,44,Male,None,Public
+Cyber Crime,Beijing,2021-04-14 12:36:29,30,Female,Blunt Object,Public
+Vandalism,Henan,2022-11-26 22:59:37,47,Male,Blunt Object,Public
+Fraud,Sichuan,2023-10-12 13:55:27,42,Female,Blunt Object,Private
+Theft,Hunan,2022-05-28 19:07:09,32,Female,None,Public
+Fraud,Shanghai,2023-01-20 15:45:25,30,Male,Knife,Public
+Assault,Zhejiang,2024-05-28 11:21:07,63,Male,Gun,Private
+Theft,Henan,2020-07-22 18:22:35,41,Male,Knife,Public
+Drug Offense,Jiangsu,2022-03-14 17:52:10,31,Male,Knife,Private
+Theft,Beijing,2022-08-09 09:09:23,61,Male,Blunt Object,Public
+Cyber Crime,Chongqing,2021-08-30 03:04:01,30,Female,Gun,Public
+Fraud,Shandong,2021-12-08 09:16:32,63,Male,Knife,Public
+Burglary,Shanghai,2020-03-07 21:51:54,51,Female,Knife,Private
+Drug Offense,Shandong,2020-05-09 23:28:13,36,Male,Gun,Private
+Drug Offense,Shandong,2024-09-06 04:56:09,41,Male,Blunt Object,Private
+Assault,Shandong,2021-12-03 00:58:08,45,Female,None,Private
+Drug Offense,Zhejiang,2020-01-24 17:31:57,42,Male,Knife,Private
+Theft,Sichuan,2021-07-31 00:19:17,30,Male,None,Private
+Cyber Crime,Jiangsu,2022-05-16 03:51:37,63,Male,Gun,Public
+Theft,Beijing,2023-03-24 16:28:32,51,Female,Chemical,Public
+Drug Offense,Shandong,2021-01-08 15:47:18,62,Female,Chemical,Public
+Fraud,Hunan,2023-04-25 01:19:19,53,Female,Gun,Private
+Fraud,Henan,2024-05-13 00:27:31,28,Female,Chemical,Public
+Burglary,Chongqing,2020-03-27 06:04:09,59,Male,Blunt Object,Private
+Drug Offense,Guangdong,2021-09-23 04:31:58,41,Male,Knife,Private
+Assault,Hunan,2022-09-20 13:12:50,30,Female,None,Public
+Fraud,Henan,2023-05-18 02:51:08,27,Male,Blunt Object,Public
+Fraud,Zhejiang,2024-03-23 13:30:25,61,Male,Knife,Private
+Burglary,Henan,2023-05-06 21:55:51,22,Male,Gun,Public
+Fraud,Guangdong,2024-08-08 01:22:49,23,Female,Gun,Public
+Fraud,Jiangsu,2023-07-11 13:19:12,37,Female,Knife,Private
+Fraud,Shanghai,2024-06-25 20:53:31,55,Female,Knife,Public
+Drug Offense,Beijing,2020-01-11 00:10:11,55,Female,None,Public
+Vandalism,Beijing,2023-12-04 00:23:53,24,Male,Chemical,Public
+Drug Offense,Shanghai,2019-11-24 10:05:44,37,Female,Blunt Object,Public
+Assault,Hunan,2024-07-17 22:33:15,31,Male,Gun,Private
+Theft,Shanghai,2023-10-08 10:54:50,43,Male,Gun,Public
+Assault,Shandong,2020-01-15 15:17:38,46,Female,Knife,Private
+Cyber Crime,Jiangsu,2023-10-02 04:43:07,35,Male,Knife,Public
+Cyber Crime,Beijing,2020-02-03 20:52:38,46,Male,Chemical,Private
+Burglary,Chongqing,2024-04-01 03:35:09,29,Male,Gun,Public
+Assault,Henan,2023-04-22 17:54:52,48,Female,Knife,Private
+Cyber Crime,Sichuan,2020-03-21 16:02:07,41,Female,Gun,Public
+Assault,Shanghai,2020-12-23 20:56:12,54,Female,Knife,Private
+Fraud,Shanghai,2023-06-01 17:39:16,44,Female,None,Public
+Burglary,Jiangsu,2021-11-03 00:04:53,19,Female,None,Public
+Assault,Shanghai,2022-10-07 08:17:51,50,Male,Blunt Object,Public
+Burglary,Zhejiang,2021-04-15 15:37:32,60,Female,Gun,Private
+Cyber Crime,Zhejiang,2019-11-13 14:27:08,42,Male,Blunt Object,Private
+Drug Offense,Shanghai,2020-01-12 19:40:52,57,Female,Blunt Object,Public
+Theft,Jiangsu,2021-09-02 10:12:26,42,Male,Chemical,Public
+Fraud,Shandong,2023-10-27 17:58:04,18,Female,Gun,Public
+Cyber Crime,Jiangsu,2023-02-20 00:32:10,21,Male,Chemical,Public
+Burglary,Zhejiang,2020-06-27 00:40:01,59,Male,Chemical,Private
+Vandalism,Hunan,2020-06-20 19:27:47,34,Female,Chemical,Public
+Fraud,Guangdong,2022-04-17 19:03:46,35,Female,Chemical,Public
+Burglary,Guangdong,2024-04-27 19:00:15,19,Male,None,Private
+Burglary,Chongqing,2020-03-25 00:24:22,33,Male,Gun,Private
+Drug Offense,Chongqing,2020-12-22 00:56:50,36,Male,Chemical,Private
+Fraud,Chongqing,2021-02-20 21:49:20,39,Female,Blunt Object,Private
+Fraud,Beijing,2022-08-25 15:45:03,39,Male,Chemical,Public
+Burglary,Jiangsu,2021-05-05 16:51:05,21,Male,Chemical,Public
+Vandalism,Guangdong,2020-11-16 15:18:12,19,Male,Blunt Object,Public
+Theft,Shanghai,2023-03-16 08:06:15,64,Male,Chemical,Public
+Vandalism,Guangdong,2023-08-31 00:49:44,61,Female,None,Public
+Cyber Crime,Zhejiang,2024-08-24 05:41:56,19,Male,Chemical,Private
+Cyber Crime,Shandong,2020-01-14 19:01:49,58,Female,Gun,Public
+Theft,Shanghai,2022-07-30 10:36:13,22,Female,Gun,Private
+Drug Offense,Jiangsu,2022-03-04 01:37:39,40,Female,Knife,Public
+Drug Offense,Beijing,2023-11-04 15:05:43,51,Female,Chemical,Private
+Cyber Crime,Beijing,2019-12-17 20:11:05,46,Female,Chemical,Public
+Cyber Crime,Shanghai,2021-03-01 09:37:52,61,Male,None,Public
+Cyber Crime,Chongqing,2023-05-08 06:08:12,50,Male,None,Public
+Vandalism,Henan,2020-10-28 10:19:44,53,Male,Chemical,Private
+Vandalism,Sichuan,2024-04-13 15:03:51,50,Male,Gun,Public
+Drug Offense,Zhejiang,2021-01-15 11:35:24,30,Female,Blunt Object,Public
+Theft,Zhejiang,2021-10-13 07:57:51,50,Male,Knife,Public
+Cyber Crime,Henan,2020-08-08 10:43:25,55,Female,Blunt Object,Private
+Vandalism,Shandong,2023-07-14 16:51:43,34,Male,Knife,Public
+Cyber Crime,Hunan,2023-10-30 07:51:05,22,Female,None,Private
+Vandalism,Shandong,2021-05-17 18:11:07,25,Female,None,Private
+Cyber Crime,Jiangsu,2024-05-15 21:36:04,30,Female,Chemical,Public
+Assault,Henan,2022-07-03 12:58:39,34,Male,Gun,Public
+Vandalism,Guangdong,2022-05-23 06:18:19,23,Male,Knife,Public
+Cyber Crime,Shandong,2024-05-19 20:22:47,51,Male,Blunt Object,Private
+Cyber Crime,Shanghai,2020-06-27 03:24:52,41,Female,None,Public
+Cyber Crime,Sichuan,2023-12-05 10:35:27,44,Female,None,Private
+Burglary,Sichuan,2019-11-28 09:54:34,57,Female,Blunt Object,Private
+Fraud,Jiangsu,2020-07-16 17:20:42,41,Male,Knife,Public
+Theft,Sichuan,2022-04-19 01:00:13,34,Male,Blunt Object,Public
+Drug Offense,Beijing,2020-11-22 05:29:29,47,Male,None,Public
+Assault,Shanghai,2021-07-02 01:15:29,59,Male,Blunt Object,Private
+Fraud,Shanghai,2023-03-18 16:32:02,22,Male,Chemical,Public
+Cyber Crime,Jiangsu,2023-06-14 11:08:37,62,Female,Chemical,Public
+Assault,Guangdong,2022-02-24 20:03:09,41,Female,Blunt Object,Private
+Vandalism,Beijing,2024-03-21 20:04:47,45,Female,None,Public
+Assault,Chongqing,2024-01-05 15:56:55,50,Male,Chemical,Public
+Drug Offense,Hunan,2022-12-02 23:20:28,37,Female,Gun,Public
+Burglary,Beijing,2023-03-19 05:41:35,59,Female,Knife,Public
+Burglary,Jiangsu,2023-09-21 00:06:20,49,Female,None,Private
+Assault,Chongqing,2019-11-25 00:46:50,60,Female,Chemical,Public
+Drug Offense,Henan,2019-12-02 15:08:26,19,Male,Knife,Private
+Vandalism,Chongqing,2024-04-24 16:09:37,19,Male,Gun,Public
+Burglary,Henan,2021-07-29 22:34:36,19,Female,None,Public
+Cyber Crime,Chongqing,2021-08-20 18:50:37,20,Female,Chemical,Public
+Drug Offense,Sichuan,2023-04-03 06:18:18,33,Male,Knife,Public
+Cyber Crime,Shandong,2023-12-28 12:51:20,63,Male,Gun,Public
+Theft,Beijing,2023-03-14 02:31:33,35,Female,Gun,Private
+Cyber Crime,Henan,2022-01-19 17:15:47,20,Male,Gun,Public
+Vandalism,Hunan,2021-04-01 17:41:45,25,Male,Knife,Public
+Cyber Crime,Shanghai,2024-06-15 16:48:34,44,Female,Knife,Private
+Vandalism,Shandong,2024-03-06 05:48:56,43,Male,None,Private
+Assault,Shanghai,2024-01-24 12:39:48,47,Male,Blunt Object,Private
+Fraud,Shandong,2020-12-23 08:26:02,32,Female,Blunt Object,Public
+Vandalism,Guangdong,2019-11-10 05:40:55,39,Male,Gun,Public
+Burglary,Shandong,2023-11-07 02:41:37,32,Male,Chemical,Private
+Burglary,Zhejiang,2024-03-27 22:40:09,61,Male,Knife,Private
+Cyber Crime,Beijing,2023-05-25 15:13:35,33,Female,None,Public
+Assault,Guangdong,2022-03-31 08:12:53,38,Male,Chemical,Public
+Assault,Shandong,2023-01-12 19:11:50,48,Female,Knife,Private
+Fraud,Jiangsu,2020-01-11 09:53:27,51,Male,Blunt Object,Public
+Cyber Crime,Henan,2020-07-08 00:02:16,43,Male,None,Private
+Drug Offense,Zhejiang,2022-10-22 17:33:11,50,Female,Blunt Object,Public
+Drug Offense,Shanghai,2021-04-26 13:36:32,26,Male,None,Private
+Vandalism,Shandong,2022-05-01 03:53:36,38,Male,None,Public
+Vandalism,Hunan,2023-07-21 16:37:08,28,Female,Chemical,Private
+Burglary,Jiangsu,2020-03-24 16:00:32,31,Female,Knife,Public
+Cyber Crime,Shanghai,2023-10-17 10:20:31,47,Female,Knife,Private
+Drug Offense,Beijing,2022-06-01 16:56:30,43,Male,Chemical,Private
+Burglary,Hunan,2022-10-10 07:35:57,53,Male,Gun,Private
+Theft,Shandong,2020-08-21 06:37:19,39,Female,Blunt Object,Private
+Vandalism,Sichuan,2022-02-04 23:49:31,43,Male,None,Private
+Vandalism,Chongqing,2021-09-20 10:03:29,38,Female,Gun,Public
+Burglary,Jiangsu,2021-09-22 00:32:48,49,Male,Knife,Public
+Fraud,Guangdong,2023-08-21 02:55:54,25,Male,Gun,Public
+Burglary,Beijing,2023-01-03 06:46:44,46,Male,Knife,Private
+Assault,Chongqing,2021-09-14 09:27:32,58,Female,Chemical,Private
+Theft,Shandong,2022-04-13 05:25:12,35,Female,None,Private
+Theft,Zhejiang,2020-08-30 15:56:26,50,Male,Blunt Object,Public
+Cyber Crime,Jiangsu,2023-02-01 08:50:23,61,Female,Gun,Public
+Burglary,Shanghai,2024-01-19 08:56:43,22,Female,None,Private
+Fraud,Shanghai,2023-12-21 23:48:01,44,Female,Chemical,Public
+Burglary,Hunan,2022-07-22 03:45:47,40,Male,Knife,Public
+Fraud,Sichuan,2024-02-22 02:58:29,56,Female,Gun,Public
+Cyber Crime,Beijing,2019-11-13 20:02:29,60,Male,Gun,Public
+Theft,Chongqing,2021-01-31 04:27:42,50,Female,Knife,Public
+Drug Offense,Beijing,2024-08-23 08:48:20,35,Male,Blunt Object,Public
+Theft,Jiangsu,2022-07-30 14:39:34,33,Female,Knife,Private
+Assault,Shandong,2020-06-30 07:14:06,57,Male,Gun,Public
+Drug Offense,Shanghai,2023-10-23 04:49:58,32,Male,Knife,Private
+Assault,Shanghai,2023-08-30 06:44:51,62,Male,Blunt Object,Private
+Vandalism,Shandong,2022-03-17 13:14:39,38,Male,Gun,Public
+Assault,Henan,2021-10-26 08:29:35,18,Male,Chemical,Public
+Vandalism,Shanghai,2023-06-07 14:28:59,62,Female,Chemical,Private
+Cyber Crime,Sichuan,2022-08-15 15:17:34,43,Male,Knife,Public
+Drug Offense,Hunan,2023-02-28 04:42:51,31,Female,Chemical,Public
+Vandalism,Jiangsu,2020-03-02 12:33:34,37,Male,Gun,Public
+Cyber Crime,Hunan,2019-11-01 20:49:16,50,Female,Knife,Public
+Theft,Hunan,2021-01-03 13:56:36,21,Female,Blunt Object,Public
+Fraud,Shandong,2023-03-11 20:02:59,27,Female,Gun,Private
+Theft,Shandong,2021-06-27 12:46:13,29,Male,Blunt Object,Private
+Cyber Crime,Shanghai,2023-10-05 15:57:54,19,Female,Knife,Private
+Cyber Crime,Sichuan,2023-07-19 18:00:10,63,Male,Chemical,Public
+Cyber Crime,Shanghai,2023-10-05 00:18:01,31,Female,Blunt Object,Private
+Assault,Shandong,2019-12-25 06:36:28,28,Female,None,Private
+Cyber Crime,Beijing,2022-10-02 02:13:02,53,Male,Blunt Object,Public
+Assault,Zhejiang,2023-04-04 02:51:50,35,Male,Knife,Private
+Drug Offense,Shandong,2023-06-30 19:53:05,59,Male,Gun,Private
+Burglary,Shandong,2022-01-07 01:49:01,21,Male,None,Private
+Theft,Henan,2022-04-24 21:07:56,43,Male,Chemical,Public
+Drug Offense,Beijing,2022-03-12 02:45:39,46,Male,Blunt Object,Private
+Vandalism,Beijing,2022-12-05 21:40:58,18,Female,Gun,Private
+Vandalism,Guangdong,2023-08-10 10:04:00,42,Female,Gun,Public
+Burglary,Jiangsu,2021-03-04 08:33:22,27,Male,Blunt Object,Private
+Assault,Chongqing,2020-10-24 07:25:24,57,Male,Chemical,Public
+Vandalism,Jiangsu,2020-06-22 10:04:02,26,Female,Knife,Public
+Theft,Shandong,2021-01-08 20:26:46,61,Male,Chemical,Private
+Cyber Crime,Chongqing,2020-03-23 10:39:11,58,Female,Knife,Public
+Fraud,Sichuan,2023-12-08 14:48:16,61,Male,None,Private
+Vandalism,Shanghai,2021-10-17 12:10:04,47,Female,Gun,Public
+Burglary,Sichuan,2022-06-15 08:31:36,59,Male,Chemical,Public
+Cyber Crime,Zhejiang,2021-07-28 08:12:30,56,Male,Knife,Public
+Theft,Shandong,2022-06-20 15:30:35,47,Female,Chemical,Public
+Cyber Crime,Henan,2022-07-04 15:40:14,46,Male,Knife,Public
+Theft,Jiangsu,2024-01-08 11:10:33,25,Female,None,Public
+Assault,Sichuan,2021-03-23 01:41:54,43,Male,Gun,Public
+Fraud,Henan,2024-05-18 00:27:58,28,Female,Blunt Object,Public
+Drug Offense,Beijing,2021-05-27 00:34:07,34,Female,Gun,Public
+Drug Offense,Henan,2023-07-21 07:52:32,42,Male,None,Private
+Vandalism,Shandong,2023-05-07 17:08:05,26,Female,Chemical,Private
+Burglary,Chongqing,2023-09-24 22:19:02,59,Female,None,Private
+Cyber Crime,Chongqing,2023-06-17 16:55:45,42,Male,None,Private
+Burglary,Henan,2024-02-04 00:16:33,64,Male,Blunt Object,Private
+Vandalism,Hunan,2022-02-20 19:46:04,44,Male,None,Private
+Vandalism,Jiangsu,2024-06-30 20:14:17,55,Male,Gun,Private
+Theft,Shanghai,2021-01-30 18:24:36,29,Male,Gun,Public
+Drug Offense,Shanghai,2019-10-29 00:06:24,42,Male,Knife,Private
+Burglary,Chongqing,2024-02-18 14:49:05,41,Male,Gun,Private
+Assault,Hunan,2020-04-09 19:47:40,52,Female,Gun,Public
+Vandalism,Chongqing,2020-04-05 13:55:51,57,Male,Knife,Public
+Drug Offense,Jiangsu,2022-08-31 10:01:03,48,Female,Gun,Public
+Theft,Zhejiang,2019-12-22 03:32:52,29,Female,None,Private
+Cyber Crime,Shandong,2022-06-03 12:54:35,28,Female,Gun,Private
+Cyber Crime,Beijing,2024-06-05 19:03:17,35,Female,Knife,Public
+Fraud,Guangdong,2020-03-31 19:46:29,52,Male,None,Public
+Assault,Zhejiang,2020-09-05 04:49:43,38,Female,Blunt Object,Private
+Cyber Crime,Jiangsu,2021-02-23 16:31:30,19,Male,Chemical,Public
+Burglary,Hunan,2024-04-02 19:59:16,21,Male,Blunt Object,Public
+Burglary,Sichuan,2023-02-11 21:52:53,51,Female,Chemical,Private
+Fraud,Shanghai,2023-10-20 13:59:30,44,Female,Gun,Public
+Vandalism,Sichuan,2020-12-23 16:49:19,28,Female,Gun,Private
+Assault,Beijing,2023-07-26 04:20:08,25,Male,None,Public
+Cyber Crime,Shandong,2021-06-30 18:54:29,49,Female,Gun,Private
+Vandalism,Guangdong,2022-03-12 13:15:30,63,Female,None,Public
+Burglary,Chongqing,2020-04-23 13:05:42,59,Female,Chemical,Private
+Vandalism,Shanghai,2021-10-07 08:18:14,58,Female,Blunt Object,Public
+Vandalism,Shandong,2023-10-07 07:51:35,36,Male,None,Private
